@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rladies/universe
-	shallow = true
 	branch = HEAD
 [submodule "meetupr"]
 	path = meetupr
 	url = https://github.com/rladies/meetupr
-	shallow = true
 	branch = master
-	registered = true
