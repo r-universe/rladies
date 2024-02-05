@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rladies/universe
+	url = https://github.com/rladies/rladies.r-universe.dev
 	branch = HEAD
 [submodule "meetupr"]
 	path = meetupr
