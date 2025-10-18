@@ -5,4 +5,4 @@
 [submodule "meetupr"]
 	path = meetupr
 	url = https://github.com/rladies/meetupr
-	branch = master
+	branch = main
