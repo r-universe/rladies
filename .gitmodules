@@ -2,7 +2,15 @@
 	path = .registry
 	url = https://github.com/rladies/rladies.r-universe.dev
 	branch = HEAD
+[submodule "jinx"]
+	path = jinx
+	url = https://github.com/rladies/jinx
+	branch = main
 [submodule "meetupr"]
 	path = meetupr
 	url = https://github.com/rladies/meetupr
+	branch = main
+[submodule "spellbind"]
+	path = spellbind
+	url = https://github.com/rladies/spellbind
 	branch = main
